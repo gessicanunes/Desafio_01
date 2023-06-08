@@ -1,2 +1,2 @@
 # Desafio_01
-Código de desafio Etruth
+Código de desafio em PHP
